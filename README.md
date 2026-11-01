@@ -10,6 +10,9 @@ Every species in this herbarium is fictional. Every discovery is an invitation t
 
 > Not every flower was meant to grow in a garden. Some were meant to grow in stories.
 
+<h3>01 · The Landing Page</h3>
+  <img src="screenshots/landing.png" alt="The Digital Herbarium landing page" width="90%">
+
 ---
 
 ## Explore the Herbarium
@@ -20,19 +23,31 @@ The experience is organised around four spaces, each offering a different way to
 
 A home for discovered species. Browse the collection, explore botanical illustrations, and open individual specimen records to learn about their characteristics, habitats, and origins.
 
+  <h3>02 · The Conservatory</h3>
+  <img src="screenshots/conservatory.png" alt="The botanical collection" width="90%">
+
 ### The Discovery Desk
 
 A creative space for inventing new species. Start with a seed word, choose a mood or habitat, and let the in-browser AI help turn an idea into a fictional botanical profile.
 
 Generated entries can be reviewed, edited, regenerated, and saved to your collection.
 
+  <h3>03 · The Discovery Desk</h3>
+  <img src="screenshots/discovery.png" alt="The AI plant discovery desk" width="90%">
+
 ### The Field Journal
 
 A personal archive for your discoveries. Keep observations, add notes, revisit saved species, and mark favourites. Your collection belongs to your browser, so you can build a little herbarium of your own.
 
+  <h3>05 · Settings</h3>
+  <img src="screenshots/settings.png" alt="Herbarium settings and themes" width="90%">
+
 ### The Unclassified
 
 A collection of mysterious and incomplete botanical records. Explore species with missing details, uncertain origins, and stories that leave room for interpretation.
+
+  <h3>04 · The Unclassified</h3>
+  <img src="screenshots/unclassified.png" alt="Unclassified botanical records" width="90%">
 
 ---
 
