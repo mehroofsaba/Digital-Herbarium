@@ -23,7 +23,7 @@ The experience is organised around four spaces, each offering a different way to
 
 A home for discovered species. Browse the collection, explore botanical illustrations, and open individual specimen records to learn about their characteristics, habitats, and origins.
 
-  <h3>02 · The Conservatory</h3>
+  <h3>02·The Conservatory</h3>
   <img src="screenshots/conservatory.png" alt="The botanical collection" width="90%">
 
 ### The Discovery Desk
