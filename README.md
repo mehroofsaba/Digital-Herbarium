@@ -200,6 +200,7 @@ npm run preview
 
 The production build is generated in the `dist/` directory.
 
+# Deployed Link - https://digital-herbarium-vsth.onrender.com/
 ---
 
 ## Project Structure
